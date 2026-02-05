@@ -43,7 +43,7 @@
     "test:unit": "nuxi prepare test/fixtures/basic && nuxi prepare test/fixtures/document-driven && vitest run"
   },
   "dependencies": {
-    "@nuxt/kit": "3.1.1",
+    "@nuxt/kit": "3.4.2",
     "consola": "^2.15.3",
     "defu": "^6.1.2",
     "destr": "^1.2.2",
@@ -70,14 +70,14 @@
     "scule": "^1.0.0",
     "shiki-es": "^0.2.0",
     "slugify": "^1.6.5",
-    "socket.io-client": "^4.5.4",
+    "socket.io-client": "^4.7.0",
     "ufo": "^1.0.1",
     "unified": "^10.1.2",
     "unist-builder": "^3.0.1",
     "unist-util-position": "^4.0.4",
     "unist-util-visit": "^4.1.2",
     "unstorage": "^1.0.1",
-    "ws": "^8.12.0"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "@nuxt/module-builder": "^0.2.1",
